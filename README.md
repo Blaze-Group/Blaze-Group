@@ -8,7 +8,7 @@
 <h2> </h2>
 
 <h2> Favorite Project 👇</h2>
-<p>🅞 <a href="https://github.com/Blaze-Group/Runner">Runner - Programming Language</a></p>
+<p>🅞 <a href="https://github.com/Blaze-Group/Runner-Lang">Runner - Programming Language</a></p>
 
 <h2>
   
